@@ -9,7 +9,7 @@
     "makerunnable": "./bin/makerunnable.js"
   },
   "bugs": {
-    "url": "https://github.com/PhilipSkinner/windows/issues"
+    "url": "https://github.com/icharge/windows-2/issues"
   },
   "dependencies": {
     "jasmine": "^3.1.0"
@@ -17,18 +17,18 @@
   "deprecated": false,
   "description": "A collection of utilities for Windows for Node.js",
   "devDependencies": {
-    "jasmine" : "3.1.0"
+    "jasmine": "3.1.0"
   },
   "homepage": "https://github.com/PhilipSkinner/windows",
   "main": "index.js",
-  "name": "windows",
+  "name": "windows-2",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:PhilipSkinner/windows.git"
+    "url": "https://github.com/icharge/windows-2.git"
   },
-  "scripts" :{
-    "test" : "jasmine"
+  "scripts": {
+    "test": "jasmine"
   },
   "tags": [
     "Windows",
@@ -43,5 +43,5 @@
     "drive alias",
     "windows sdk"
   ],
-  "version": "0.0.8"
+  "version": "0.0.9"
 }
