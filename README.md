@@ -1,3 +1,7 @@
+This package forked from [windows](https://github.com/PhilipSkinner/windows) by [PhilipSkinner](https://github.com/PhilipSkinner)
+ and no longer updated for 2 years. So I think I need to do something.
+
+
 # Node Utilities for Windows
 
 Right now it's just a few wrappers around some builtin console commands but FFI bindings are soon to come.
