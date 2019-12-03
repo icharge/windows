@@ -1,7 +1,7 @@
 module.exports = {
   registry:     require('./lib/registry'),
   driveAlias:   require('./lib/driveAlias'),
-  runnable:     require('./lib/runnable'),
+  // runnable:     require('./lib/runnable'),
   getFontNames: require('./lib/fonts').getNames,
   associations: require('./lib/associations').associations,
   fileTypes:    require('./lib/associations').fileTypes,
