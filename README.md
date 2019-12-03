@@ -7,6 +7,13 @@ NOTE: This version included PATH fix from PR [hija](https://github.com/hija) by 
 
 Right now it's just a few wrappers around some builtin console commands but FFI bindings are soon to come.
 
+## Install
+```
+npm install windows-2
+// Or YARN
+yarn add windows-2
+```
+
 ## Command line tools
 
 Some wrappers for the below APIs to be used on the command line.
