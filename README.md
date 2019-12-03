@@ -1,6 +1,7 @@
 This package forked from [windows](https://github.com/PhilipSkinner/windows) by [PhilipSkinner](https://github.com/PhilipSkinner)
  and no longer updated for 2 years. So I think I need to do something.
 
+NOTE: This version included PATH fix from PR [hija](https://github.com/hija) by [schmittberger](https://github.com/schmittberger) at [Issue runnable PATH determination seems faulty](https://github.com/PhilipSkinner/windows/issues/1)
 
 # Node Utilities for Windows
 
